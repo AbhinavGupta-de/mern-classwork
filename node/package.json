@@ -1,0 +1,16 @@
+{
+	"name": "node",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "Abhinav Gupta",
+	"license": "ISC",
+	"description": "Just some small things to learn Node.js",
+	"dependencies": {
+		"express": "^4.19.2",
+		"nodemon": "^3.1.4"
+	}
+}
