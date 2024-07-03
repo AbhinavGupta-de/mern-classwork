@@ -1,5 +1,5 @@
-# React-components
+# MERN-Classwork
 
 ## Description
 
-This repo contains a collection of React components that I have created to learn different ui concepts and patterns.
+The repo contains some things that I did for the classwork that was given to us while learning MERN.
