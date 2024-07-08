@@ -1,0 +1,16 @@
+{
+	"name": "express-class",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"module": "module",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2",
+		"mongoose": "^8.4.4"
+	}
+}
